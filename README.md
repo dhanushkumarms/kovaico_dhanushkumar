@@ -64,10 +64,10 @@ Strong weekly rhythm:
 # 4. Seasonal & Time-Series Diagnostics  
 To verify seasonality and model suitability:
 
-### ✔ ACF & PACF analysis  
+### ACF & PACF analysis  
 Shows strong lag-7 autocorrelation → weekly pattern.
 
-### ✔ Seasonal Decomposition  
+### Seasonal Decomposition  
 Trend + seasonal + residual breakdown confirms clean **7-day seasonality**.
 
 Therefore, **SARIMA with weekly seasonal period (7)** was chosen.
@@ -136,14 +136,14 @@ Insights derived from the analysis can guide **scheduling**, **capacity planning
 
 ---
 
-# 📊 Exploratory Data Analysis (EDA) — Visual Overview
+## Exploratory Data Analysis (EDA) — Visual Overview
 
 Below is a structured gallery of all EDA visualizations used in the project.  
 Each image is clickable and opens in full resolution.
 
 ---
 
-## 📌 EDA Visualization Gallery
+## EDA Visualization Gallery
 
 | **Visualization** | **Preview** |
 |-------------------|-------------|
@@ -158,7 +158,7 @@ Each image is clickable and opens in full resolution.
 
 ---
 
-# 🔮 Forecasting Visualizations
+## Forecasting Visualizations
 
 The following plots show **last 60 days + 7-day SARIMA forecast + 95% CI** for each service.
 
@@ -172,13 +172,13 @@ The following plots show **last 60 days + 7-day SARIMA forecast + 95% CI** for e
 
 ---
 
-# 📊 Key Forecast Outputs
+## Key Forecast Outputs
 
-### 📄 Forecast Table  
-👉 [7-Day Forecast CSV](results/7_day_forecasts_by_service.csv)
+###  Forecast Table  
+[7-Day Forecast CSV](results/7_day_forecasts_by_service.csv)
 
-### 📄 Model Performance  
-👉 [Evaluation Metrics (MAE & RMSE)](results/sarima_evaluation_metrics.csv)
+###  Model Performance  
+[Evaluation Metrics (MAE & RMSE)](results/sarima_evaluation_metrics.csv)
 
 ---
 
