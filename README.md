@@ -147,14 +147,14 @@ Each image is clickable and opens in full resolution.
 
 | **Visualization** | **Preview** |
 |-------------------|-------------|
-| **1. Distribution Overview**<br>(Passenger distributions across services) | <a href="plots/eda_images/download (6).png"><img src="plots/eda_images/download (6).png" width="350"></a> |
-| **2. Daily Trend for Each Service Type** | <a href="plots/eda_images/eda_daily_each_type.png"><img src="plots/eda_images/eda_daily_each_type.png" width="350"></a> |
-| **3. Overall Daily Passenger Trend (Total Ridership)** | <a href="plots/eda_images/eda_daily_passenger.png"><img src="plots/eda_images/eda_daily_passenger.png" width="350"></a> |
-| **4. Correlation Heatmap** | <a href="plots/eda_images/eda_heatmap.png"><img src="plots/eda_images/eda_heatmap.png" width="350"></a> |
-| **5. Weekly Ridership Pattern** | <a href="plots/eda_images/eda_weekly_ridership.png"><img src="plots/eda_images/eda_weekly_ridership.png" width="350"></a> |
-| **6. Seasonal Decomposition** | <a href="plots/eda_images/eda_seasonal_decomposition.png"><img src="plots/eda_images/eda_seasonal_decomposition.png" width="350"></a> |
-| **7. ACF Plot (Autocorrelation)** | <a href="plots/eda_images/eda_acf.png"><img src="plots/eda_images/eda_acf.png" width="350"></a> |
-| **8. PACF Plot (Partial Autocorrelation)** | <a href="plots/eda_images/eda_pcf.png"><img src="plots/eda_images/eda_pcf.png" width="350"></a> |
+| **1. Distribution Overview**<br>(Passenger distributions across services) | <a href="plots/eda_images/download (6).png"><img src="plots/eda_images/download (6).png" width="1000"></a> |
+| **2. Daily Trend for Each Service Type** | <a href="plots/eda_images/eda_daily_each_type.png"><img src="plots/eda_images/eda_daily_each_type.png" width="1000"></a> |
+| **3. Overall Daily Passenger Trend (Total Ridership)** | <a href="plots/eda_images/eda_daily_passenger.png"><img src="plots/eda_images/eda_daily_passenger.png" width="1000"></a> |
+| **4. Correlation Heatmap** | <a href="plots/eda_images/eda_heatmap.png"><img src="plots/eda_images/eda_heatmap.png" width="1000"></a> |
+| **5. Weekly Ridership Pattern** | <a href="plots/eda_images/eda_weekly_ridership.png"><img src="plots/eda_images/eda_weekly_ridership.png" width="1000"></a> |
+| **6. Seasonal Decomposition** | <a href="plots/eda_images/eda_seasonal_decomposition.png"><img src="plots/eda_images/eda_seasonal_decomposition.png" width="1000"></a> |
+| **7. ACF Plot (Autocorrelation)** | <a href="plots/eda_images/eda_acf.png"><img src="plots/eda_images/eda_acf.png" width="1000"></a> |
+| **8. PACF Plot (Partial Autocorrelation)** | <a href="plots/eda_images/eda_pcf.png"><img src="plots/eda_images/eda_pcf.png" width="1000"></a> |
 
 ---
 
@@ -164,11 +164,11 @@ The following plots show **last 60 days + 7-day SARIMA forecast + 95% CI** for e
 
 | **Service** | **Forecast Plot** |
 |-------------|-------------------|
-| **Local Route** | <a href="plots/forecast_Local_Route.png"><img src="plots/forecast_Local_Route.png" width="350"></a> |
-| **Light Rail** | <a href="plots/forecast_Light_Rail.png"><img src="plots/forecast_Light_Rail.png" width="350"></a> |
-| **Peak Service** | <a href="plots/forecast_Peak_Service.png"><img src="plots/forecast_Peak_Service.png" width="350"></a> |
-| **Rapid Route** | <a href="plots/forecast_Rapid_Route.png"><img src="plots/forecast_Rapid_Route.png" width="350"></a> |
-| **School Service** | <a href="plots/forecast_School.png"><img src="plots/forecast_School.png" width="350"></a> |
+| **Local Route** | <a href="plots/forecast_Local_Route.png"><img src="plots/forecast_Local_Route.png" width="1000"></a> |
+| **Light Rail** | <a href="plots/forecast_Light_Rail.png"><img src="plots/forecast_Light_Rail.png" width="1000"></a> |
+| **Peak Service** | <a href="plots/forecast_Peak_Service.png"><img src="plots/forecast_Peak_Service.png" width="1000"></a> |
+| **Rapid Route** | <a href="plots/forecast_Rapid_Route.png"><img src="plots/forecast_Rapid_Route.png" width="1000"></a> |
+| **School Service** | <a href="plots/forecast_School.png"><img src="plots/forecast_School.png" width="1000"></a> |
 
 ---
 
